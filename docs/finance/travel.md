@@ -57,6 +57,7 @@ Rates are reviewed annually and adjusted each January 1st based on updates publi
 - Travel arrangements should be made in the most cost-effective manner while ensuring efficiency and convenience.
 - Airfare must be economy class without exceptions.
 - Flights should ideally be booked at least 14 days in advance (domestic) and 21 days in advance (international).
+- VISAs required for business travel will be reimbursed upon submission of a valid receipt.
 - Accommodation costs are included in the daily per diem rate and are not reimbursable separately.
 
 ## Sustainability ♻️
