@@ -92,6 +92,8 @@ Employees traveling for business will receive a daily per diem allowance based o
 | **France 🇫🇷**         | Paris         | $255.50 | $86.50 | $342.00        |
 | **Germany 🇩🇪**        | Berlin        | $135.50 | $72.50 | $208.00        |
 |                       | Munich        | $156.00 | $77.00 | $233.00        |
+|                       | Düsseldorf    | $157.50 | $77.00 | $234.50        |
+|                       | Nuremberg     | $147.50 | $77.00 | $224.50        |
 | **Italy 🇮🇹**          | Rome          | $244.50 | $89.50 | $334.00        |
 | **Japan 🇯🇵**          | Tokyo         | $187.50 | $65.00 | $252.50        |
 | **Netherlands 🇳🇱**    | Amsterdam     | $226.50 | $96.00 | $322.50        |
